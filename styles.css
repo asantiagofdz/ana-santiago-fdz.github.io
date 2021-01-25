@@ -1,0 +1,30 @@
+body {
+  position: relative;
+}
+
+/* Modify the backgorund color for bootstrap navbar*/ 
+.navbar-custom { 
+  background-color: #003E65; /*prussian blue */
+}
+.navbar-bottom-custom {
+  background-color: #003E65; /*prussian blue */
+  color: gray;  
+}
+
+.avatar{
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+
+.header-username{
+  color: white;
+  font-size:20px;
+ 
+}
+#menu1 {padding-top:50px;color: #fff; background-color: #1E88E5;}
+#menu2 {padding-top:50px;color: #fff; background-color: #673ab7;}
+#menu3 {padding-top:50px;color: #fff; background-color: #ff9800;}
+#menu4 {padding-top:50px;color: #fff; background-color: #00bcd4;}
